@@ -1,0 +1,7 @@
+I want to combine both of these projects:
+
+https://www.codester.com/items/14725/calculator-vault-android-source-code
+
+https://www.codester.com/items/7634/fireapp-chat-firebase-android-source-code
+
+This will be a secret photo / files vault + secret chat app all combined 2 in 1.
